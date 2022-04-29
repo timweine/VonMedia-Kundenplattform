@@ -9,16 +9,24 @@ assignees: ''
 
 ### User Story
 **Als** User,
-**will ich** xy **damit ich** xy erreiche
+**will ich** xy 
+**damit ich** xy erreiche
 
 ### Aussage
+- a
+- b
+- c
 
 ### Begründung
+- a
+- b
+- c
 
-### Preconditons
+### Preconditions
+- a
+- b
 
 ### Acceptance Criteria
-
 - a
 - b
 
@@ -33,7 +41,6 @@ Priorität
 
 
 ### Ressourcen:
-
 * [Design](agile-user-story.md)
 * [Miro](http://www.mountaingoatsoftware.com/blog/advantages-of-the-as-a-user-i-want-user-story-template)
 * [Weitere Dokumentation](http://scrumguides.org/scrum-guide.html)
