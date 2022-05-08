@@ -36,11 +36,11 @@ assignees: ''
 * **Wenn** ich meine Email und mein Passwort eingebe und auf login Button klicke,
 * **dann** loggt mich das System ein und und leitet mich zur Dashboard Seite weiter.
 
-Stabilität
+### Stabilität
 - [ ] stabil
 - [ ] instabil
 
-Priorität
+### Priorität
 - [ ] hoch
 - [ ] mittel
 - [ ] gering
