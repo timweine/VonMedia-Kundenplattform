@@ -10,7 +10,7 @@ assignees: ''
 ### User Story
 **Als** User,
 **will ich** xy 
-**damit ich** xy erreiche
+**um** xy erreiche
 
 ### Aussage
 - a
