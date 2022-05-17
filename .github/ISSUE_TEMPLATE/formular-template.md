@@ -9,11 +9,9 @@ assignees: ''
 
 # Formular {title}
 
-| **ID** | **Typ**                    | **Regel**                                                 | **Label** | **Hilfe Text** | **Required** |
-|--------|----------------------------|-----------------------------------------------------------|-----------|----------------|--------------|
-| 1      | Text                       | **Es dürfen nur valide E-Mail Adresen eingegeben werden** | E-Mail    | None           | [x]          |
-| 2      | Text                       | **Die eingegeben Zeichen sind nicht lesbar**              | Passwort  | None           | []           |
-| 3      | Button                     | None                                                      | Senden    | None           | []           |
-|        | **Abgrenzung, Gültigkeit** |                                                           |           |                |              |
-|        | **Eigenschaften**          |                                                           |           |                |              |
-|        | **Querverweise**           |                                                           |           |                |              |
+| **ID** | **Typ** | **Regel**                                             | **Label** | **Hilfe Text** | **Required**           |
+| ------ | ------- | ----------------------------------------------------- | --------- | -------------- | ---------------------- |
+| 1      | Text    | Es dürfen nur valide E-Mail Adresen eingegeben werden | E-Mail    | None           | <ul><li> [x] </li><ul> |
+| 2      | Text    | Die eingegeben Zeichen sind nicht lesbar              | Passwort  | None           | <ul><li> [x] </li><ul> |
+| 3      | Button  | None                                                  | Senden    | None           | <ul><li> [x] </li><ul> |
+| 4      |         |                                                       |           |                |                        |
