@@ -2,7 +2,7 @@
 name: Formular Template
 about: Dieses Template wird für die Spezifikation von Formularen verwendet
 title: ''
-labels: ''
+labels: 'formular'
 assignees: ''
 
 ---
