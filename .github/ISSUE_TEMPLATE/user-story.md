@@ -58,4 +58,3 @@ assignees: ''
 
 #### Weitere Dokumentation
 [Weitere Dokumentation](http://scrumguides.org/scrum-guide.html)
-
